@@ -29,7 +29,8 @@ from mmdet.models import build_detector
 from mmdet.utils import (get_device, get_root_logger,
                          setup_multi_processes, update_data_root)
 
-import repvit  # noqa: F401  backbone 등록
+import repvit       # noqa: F401  backbone 등록
+import repvit_mica  # noqa: F401  repvit_m1_1_mica 등록
 
 
 # ─────────────────────────────────────────────────────────────────────────────

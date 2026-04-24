@@ -42,6 +42,7 @@ import mmcv_custom.runner.epoch_based_runner      # noqa: F401
 import mmcv_custom.runner.optimizer               # noqa: F401
 import mmcv_custom.runner.early_stopping_hook     # noqa: F401  EarlyStoppingHook 등록
 import repvit                                     # noqa: F401  backbone 등록
+import repvit_mica                                # noqa: F401  repvit_m1_1_mica 등록
 
 
 # ─────────────────────────────────────────────────────────────────────────────
